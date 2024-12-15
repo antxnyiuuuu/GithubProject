@@ -1,0 +1,7 @@
+git init
+
+git remote add origin htt´´´sakdsa
+
+git remote -v
+
+git push --set-upstream origin main
